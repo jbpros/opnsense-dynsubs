@@ -1,0 +1,8 @@
+<model>
+    <mount>//jbpros/dynsubs</mount>
+    <description>
+        DynSubs application
+    </description>
+    <items>
+    </items>
+</model>
